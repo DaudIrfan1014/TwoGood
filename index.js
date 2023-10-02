@@ -58,7 +58,7 @@ function playAnimation() {
     gsap.to(play, {
       left: dets.x - 70,
       top: dets.y - 80,
-      speed: 1 + "ms",
+    
     });
   });
 }
